@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+header{
+    padding: 20px 32px;
+    display: flex  ;
+    justify-content: space-between;
+    border-bottom:1px solid rgba(10, 37, 64,0.32) ;
+    background-color:#fff ;
+}
+.news{
+    display:flex ;
+    align-items: center;
+    position: relative;
+}
+.newsbox{
+    display:flex ;
+    align-items: center;
+    gap: 4px;
+}
+#paragraph{
+    font-size: 15px;
+    font-weight: 400;
+    color:#103B66 ;
+    
+}
+.badge{
+    color: white;
+    background-color:#f33451 ;
+    border-radius: 50%; ;
+    height: 20px;width: 20px;
+    text-align: center;
+    position:absolute;
+    top: -10px ;
+    left:88px ;
+
+}
+.titre>h1{
+    font-size: 17px;
+    font-weight: 600;
+    color: #103B66;
+}
+body{
+    background-color: #f8f9fb ;
+}
