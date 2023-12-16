@@ -44,5 +44,10 @@ header{
     color: #103B66;
 }
 body{
-    background-color: #f8f9fb ;
+    background-color: #f8f9fb ;}
+.paragraph{
+    font-size: 22px;
+    font-weight: 600;
+    align-content :center
+
 }
